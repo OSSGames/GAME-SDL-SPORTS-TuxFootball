@@ -1,0 +1,13 @@
+Tux Football is a 2D football game reminiscent of sensible soccer and Kick Off from days gone past.
+
+Default Controls for player 1:
+
+Ctrl		-	Kick
+Shift		-	Pass
+Arrow Kets	-	Move around
+
+The player closest to the ball is the active player; after touch can be applied by pressing in a particular direction straigt after a kick. The power of a kick is determined by how long you hold down the kick button for.
+
+Have fun!
+
+

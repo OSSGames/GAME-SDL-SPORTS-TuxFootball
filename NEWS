@@ -1,0 +1,13 @@
+Version 0.3.1
+=============
+- Add german translation
+- Fix bug where scores were not handled correct
+- Improve logging to console (using command line parameter "-d")
+- Add distinct goalie avatar
+
+Version 0.3.0
+=============
+Major graphics update including:
+- Menu fonts
+- Player anumations
+- In-game layout

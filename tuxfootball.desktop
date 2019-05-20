@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Tux Football
+Comment=A fun arcade-style 2D football game, very reminsicent of Sensible Soccer and Kick Off
+Comment[de]=Ein spaßiges 2D Fußballspiel, sehr ähnlich wie Sensible Soccer oder Kick Off
+Exec=tuxfootball
+Terminal=false
+Icon=tuxfootball
+Type=Application
+Categories=Game;ArcadeGame;
